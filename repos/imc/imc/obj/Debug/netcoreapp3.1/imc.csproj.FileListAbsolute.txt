@@ -1,0 +1,11 @@
+C:\Users\diogo\source\repos\imc\imc\bin\Debug\netcoreapp3.1\imc.exe
+C:\Users\diogo\source\repos\imc\imc\bin\Debug\netcoreapp3.1\imc.deps.json
+C:\Users\diogo\source\repos\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.json
+C:\Users\diogo\source\repos\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.dev.json
+C:\Users\diogo\source\repos\imc\imc\bin\Debug\netcoreapp3.1\imc.dll
+C:\Users\diogo\source\repos\imc\imc\bin\Debug\netcoreapp3.1\imc.pdb
+C:\Users\diogo\source\repos\imc\imc\obj\Debug\netcoreapp3.1\imc.csprojAssemblyReference.cache
+C:\Users\diogo\source\repos\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfo.cs
+C:\Users\diogo\source\repos\imc\imc\obj\Debug\netcoreapp3.1\imc.dll
+C:\Users\diogo\source\repos\imc\imc\obj\Debug\netcoreapp3.1\imc.pdb
